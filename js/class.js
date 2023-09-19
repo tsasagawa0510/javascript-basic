@@ -8,7 +8,7 @@ class Product {
     // this.category = '生活雑貨';
     this.name = name;
     this.price = price;
-    this.category = category;
+    this.category = category;  
   }
 
   // メソッドを定義する
